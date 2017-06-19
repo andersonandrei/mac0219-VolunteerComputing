@@ -1,0 +1,4 @@
+(General)
+
+https://en.wikipedia.org/wiki/Volunteer_computing
+https://boinc.berkeley.edu/trac/wiki/VolunteerComputing
