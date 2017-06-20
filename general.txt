@@ -1,0 +1,36 @@
+Volunteer Computing
+	Definition
+	History
+	Middleware
+	Drawback for participants
+	Benefits
+	Cauntion
+	Grid computing
+
+	GIMPS
+		Definition
+		History
+		Status
+	
+	distributed.net
+		Definition
+		Obs: GPUs
+
+	BOINC
+		History (first to SETI)
+		Participation
+		Account Managers
+		Credit System	
+		Projects
+
+	SETI@home
+		Definition
+		History
+		Status
+		Technology
+
+	Folding@home
+		Definition
+		History
+		High performance	
+	
